@@ -1,4 +1,4 @@
 # Changelog
 
-## Sprint 139
-- cdn: maintenance and dependency updates (2026-11-25 17:20)
+## Sprint 140
+- cdn: maintenance and dependency updates (2026-11-26 07:21)
